@@ -1,6 +1,6 @@
 ## Hey, good? 👋🏻
 
-My name is Laura, but you can call me Lau, I'm Brazilian and I'm studying Computer Science at USTJ and Law at UniSR.
+My name is Laura, but you can call me Lau, I'm Brazilian and Law student at UniSR.
 
 📊 I'm passionate about data science and I'm always looking for new ways of learning. 
 Use Python as your primary language to develop machine learning models.
