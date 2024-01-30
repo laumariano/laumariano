@@ -1,4 +1,4 @@
-## Hey, how are you? 👋🏻
+## Hey, good? 👋🏻
 
 My name is Laura, but you can call me Lau, I'm Brazilian and I'm studying Computer Science at USTJ and Law at UniSR.
 
