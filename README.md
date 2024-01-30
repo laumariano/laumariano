@@ -19,3 +19,5 @@ Reach me out:
 
 •E-mail: laura.mariiano@icloud.com
 
+
+![snake animation](https://github.com/laumariano/laumariano/blob/output/github-contribution-grid-snake2.svg)
