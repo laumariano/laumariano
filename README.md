@@ -20,4 +20,3 @@ Reach me out:
 •E-mail: laura.mariiano@icloud.com
 
 
-![Alt Text](https://giphy.com/gifs/oliviarodrigo-olivia-rodrigo-lCfCa1IENkQVXX446J)
