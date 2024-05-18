@@ -3,9 +3,9 @@
 My name is Laura, but you can call me Lau!
 
 📊 I'm passionate about data science and I'm always looking for new ways of learning. 
-Use Python as your primary language to develop machine learning models.
+Use Python as your primary language to develop machine learning models. And learning Java.
 
-⭐ Sharing knowledge and learning with other people, that's why I created Instagram **@datawithlau**.
+⭐ Sharing knowledge and learning with other people, that's why I created Instagram **@Techwithlau**.
 
 
 
