@@ -17,6 +17,6 @@ Reach me out:
 
 •Twitter: @[laumariiano](https://twitter.com/Laumariiano)
 
-•E-mail: laura.mariiano@icloud.com
+•E-mail: contatolauramariano@gmail.com
 
 
