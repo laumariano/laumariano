@@ -1,4 +1,4 @@
-## Olá! Sou Laura. 🌟
+## Olá! Eu sou Laura! 🌟
 Estou iniciando um novo capítulo por aqui, e fico encantada em te receber. Sou uma entusiasta da ciência de dados e da inteligência artificial, atualmente cursando Data Science na FIAP e explorando IA de maneira independente. Meu conhecimento abrange uma variedade de ferramentas e bibliotecas, incluindo:
 
 - SQL Oracle 💾
