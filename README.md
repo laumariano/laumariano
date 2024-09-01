@@ -1,22 +1,15 @@
-## Hey, good? 👋🏻
+## Olá! Sou Laura. 🌟
+Estou iniciando um novo capítulo por aqui, e fico encantada em te receber. Sou uma entusiasta da ciência de dados e da inteligência artificial, atualmente cursando Data Science na FIAP e explorando IA de maneira independente. Meu conhecimento abrange uma variedade de ferramentas e bibliotecas, incluindo:
 
-My name is Laura, but you can call me Lau!
+- SQL Oracle 💾
+- Python: Pandas, NumPy, SciPy, Matplotlib 
+- Excel: VLookup, Conditional Formatting, Pivot Tables
+- Banco de Dados
+- Git & GitHub 🛠️
+- Modelos de Machine Learning
 
-📊 I'm passionate about data science and I'm always looking for new ways of learning. 
-Use Python as your primary language to develop machine learning models. And learning Java.
+Minhas certificações incluem cursos da Alura em Ciência de Dados, Modelagem de Dados e Estatística com Python, além de habilidades dígitais sustentáveis pela Inco Academy. Estou me desenvolvendo em Cloud AWS pela Proz Talent em parceria com a AWS e em Análise de Dados pelo curso Google Data Analytics. Recentemente, finalizei o curso Java Full Stack pela Generation.
 
-⭐ Sharing knowledge and learning with other people, that's why I created Instagram **@Datawithlau**.
+Acompanhe minhas descobertas e aprendizados no Instagram: @Datawithlau
 
-
-
-Reach me out:
-
-•LinkedIn: [Laura Mariano](https://www.linkedin.com/in/datawithlau/)
-
-•Instagram: @[datawithlau](https://www.instagram.com/datawithlau/)
-
-•Twitter: @[laumariiano](https://twitter.com/Laumariiano)
-
-•E-mail: contatolauramariano@gmail.com
-
-
+Explore todos os meus links aqui: https://linktr.ee/datawithlau
