@@ -1,15 +1,36 @@
-## Olá! Eu sou Laura! 🌟
-Estou iniciando um novo capítulo por aqui, e fico encantada em te receber. Sou uma entusiasta da ciência de dados e da inteligência artificial, atualmente cursando Data Science na FIAP e explorando IA de maneira independente. Meu conhecimento abrange uma variedade de ferramentas e bibliotecas, incluindo:
+## Welcome! I'm Laura 👩‍💻
 
-- SQL Oracle, MYSQL
-- Python: Pandas, NumPy, SciPy, Matplotlib 
-- Excel: VLookup, Conditional Formatting, Pivot Tables
-- Banco de Dados
-- Git & GitHub 
-- Modelos de Machine Learning
+I'm a Data Engineering Intern at **Avanade**, currently pursuing a degree in **Data Science at FIAP**.  
+With a strong interest in **cloud computing**, **AI**, and **data-driven solutions**, I am building hands-on experience in modern data platforms and analytics.
 
-Minhas certificações incluem cursos da Alura em Ciência de Dados, Modelagem de Dados e Estatística com Python, além de habilidades dígitais sustentáveis pela Inco Academy. Estou me desenvolvendo em Cloud AWS pela Proz Talent em parceria com a AWS e em Análise de Dados pelo curso Google Data Analytics. Recentemente, finalizei o curso Java Full Stack pela Generation.
+---
 
-Acompanhe minhas descobertas e aprendizados no Instagram: @Datawithlau
+### 🧠 Technical Skills
+- **SQL**: Oracle, MySQL  
+- **Python**: Pandas, NumPy, SciPy, Matplotlib  
+- **Machine Learning**: Scikit-learn (in progress)  
+- **Excel**: Pivot Tables, VLOOKUP, Conditional Formatting  
+- **Version Control**: Git & GitHub  
+- **Databases & Data Modeling**
 
-Explore todos os meus links aqui: https://linktr.ee/datawithlau
+---
+
+### ☁️ Platforms & Tools
+- **Azure** (Databricks, Data Lake, Synapse) – hands-on experience in data engineering tasks, including data validation, deduplication, SQL optimization, and notebook development in Python and SQL  
+- **Databricks** – creation and maintenance of scalable data workflows using PySpark and SQL; responsible for business rule validation, exploratory analysis, and automation of data quality checks  
+- **AWS** – foundational cloud training (Proz & AWS Talent Program)
+
+---
+
+### 📜 Certifications
+- **Alura**: Data Science, Data Modeling, Statistics with Python  
+- **Google**: Data Analytics Certificate (Coursera)  
+- **Inco Academy**: Digital Skills for Sustainable Growth  
+- **Generation Brazil**: Java Full Stack Developer
+
+
+### 🌐 Connect with Me
+- 📸 [Instagram: @datawithlau](https://instagram.com/datawithlau)  
+- 🌍 [linktr.ee/datawithlau](https://linktr.ee/datawithlau)  
+- 💼 [LinkedIn](https://linkedin.com/in/datawithlau) 
+
