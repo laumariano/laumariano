@@ -32,5 +32,5 @@ With a strong interest in **cloud computing**, **AI**, and **data-driven solutio
 ### 🌐 Connect with Me
 - 📸 [Instagram: @datawithlau](https://instagram.com/datawithlau)  
 - 🌍 [linktr.ee/datawithlau](https://linktr.ee/datawithlau)  
-- 💼 [LinkedIn](https://linkedin.com/in/datawithlau) 
+- 💼 [LinkedIn](https://linkedin.com/in/lauramarianos) 
 
